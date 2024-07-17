@@ -1,9 +1,9 @@
 {
-    "name": "academy-express-api-starter-js",
+    "name": "jokes-with-db",
     "version": "1.0.0",
     "type": "module",
     "main": "src/server.js",
-    "author": "nbogie",
+    "author": "dana",
     "license": "MIT",
     "scripts": {
         "start": "node src/server.js",
